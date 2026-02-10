@@ -1,0 +1,8 @@
+mysql-connector-python
+uvicorn
+fastapi
+sentence-transformers
+faiss-cpu
+google-genai
+python-dotenv
+pandas
